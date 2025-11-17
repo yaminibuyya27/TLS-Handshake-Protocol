@@ -105,7 +105,7 @@ Implements RSA for server authentication.
 * Private key (d, n) - kept secret by server
 * SHA-256 message hashing
 
-### Diffie-Hellman Key Exchange (DH.java)
+### Diffie-Hellman Key Exchange (DiffieHellman.java)
 
 Implements secure key exchange with Perfect Forward Secrecy.
 ```bash
